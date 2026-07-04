@@ -5,9 +5,10 @@
 
 ---
 
-## 🔗 Демо
+## 🔗 Ссылки
 
-[Посмотреть живую страницу →](https://vibecoder-2026.github.io/headphones-catalog/)
+- **[Посмотреть демо →](https://vibecoder-2026.github.io/headphones-catalog/)**
+- **[Код на GitHub →](https://github.com/vibecoder-2026/headphones-catalog)**
 
 ---
 
@@ -47,25 +48,3 @@
 ## 👩‍💻 Автор
 
 **Diana K.**
-
----
-
-## 🤖 Ключевые промпты в Claude (ENG)
-
-*"Build a catalog section for an online headphone store. 6 product cards, responsive for desktop, tablet and mobile. Pure HTML + CSS, no JS. Hover states on cards and buttons. Theme: Apple and Marshall headphones. Clean typography and spacing."*
-
-*"Add a border frame around the whole section with the title 'Наушники' at the top center. Add line dividers for 'Apple Line' and 'Marshall'. On each card: title, description, price in a border, color indicators, badges for 'Hit'/'New' on top of the image."*
-
-*"Replace placeholders with real images (300×300). Add footer 'made by Diana K.'. Check mobile responsiveness. Code should have no comments, clean and ready for GitHub upload."*
-
-**Почему промпты на английском:**  
-Технические запросы к ИИ я формулирую на английском — это даёт более точные и предсказуемые результаты для кода и вёрстки. Это мой стандартный рабочий подход.
-
----
-
-## 🚀 Как запустить локально
-
-1. Клонируй репозиторий:
-   git clone https://github.com/vibecoder-2026/headphones-catalog.git
-
-2. Открой index.html в браузере.
